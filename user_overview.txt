@@ -1,0 +1,41 @@
+total number of users: 5
+total number of tasks: 9
+===============
+Details for username: admin
+Your total number of tasks: 1
+11.11% of the tasks are assigned to you
+100.0% of your work has been completed.
+0.0% of your work still needs to be completed.
+0.0% of your work is overdue and uncomplete.
+
+===============
+Details for username: tlholo
+Your total number of tasks: 3
+33.33% of the tasks are assigned to you
+66.67% of your work has been completed.
+33.33% of your work still needs to be completed.
+100.0% of your work is overdue and uncomplete.
+
+===============
+Details for username: thabo
+Your total number of tasks: 2
+22.22% of the tasks are assigned to you
+50.0% of your work has been completed.
+50.0% of your work still needs to be completed.
+100.0% of your work is overdue and uncomplete.
+
+===============
+Details for username: thati
+Your total number of tasks: 2
+22.22% of the tasks are assigned to you
+50.0% of your work has been completed.
+50.0% of your work still needs to be completed.
+100.0% of your work is overdue and uncomplete.
+
+===============
+Details for username: Tman
+Your total number of tasks: 1
+11.11% of the tasks are assigned to you
+0.0% of your work has been completed.
+100.0% of your work still needs to be completed.
+100.0% of your work is overdue and uncomplete.

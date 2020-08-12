@@ -1,0 +1,6 @@
+the number of tasks: 9
+Number of completed tasks: 5
+Number of incomplete tasks: 4
+Number of over due tasks: 4
+44.44% of the work are uncomplete
+44.44% of the work are over due

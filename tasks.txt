@@ -1,0 +1,9 @@
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 26 Oct 2020, 25 Oct 2020, Yes
+tlholo, math, do your math homework, 1 Jul 2020, 12 Jul 2020, Yes
+thati, water, refill the water jug, 30 jul 2020, 13 Jul 2020, Yes
+tlholo, food, get food for the meeting, 21 Jul 2020, 14 Jul 2020, Yes
+tlholo, design, design the user interface, 1 Jul 2020, 14 Jul 2020, Yes
+thabo, program, make a program that counts the stars, 12 Jul 2020, 21 Jul 2020 , Yes
+thati, KFC, get KFC for the kids, 1 Jul 2020, 24 Jul 2020, No
+Tman, eat, eat your food before they do, 1 jun 2020, 28 Jul 2020, No
+thabo, lift, lift a cup of coffee every 5 minutes , 23 jun 2020, 28 Jul 2020, No
